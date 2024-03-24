@@ -12,7 +12,7 @@ Best Redaction: Take the series of vCons and remove all the personal identifiabl
 Best Detection: Take the series of vCons, and list all the personal identifiable information. 
 
 
-#Best Redaction Output resuts:
+# Best Redaction Output resuts:
 
 
-#Best Detection Output results:
+# Best Detection Output results:
